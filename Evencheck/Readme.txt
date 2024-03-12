@@ -1,0 +1,1 @@
+In this code we worked on the a small program that return true if the nnumber in the given list is even.
